@@ -103,15 +103,21 @@
   color: #838383;
 }
 
-.header__footer-list {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+.header__footer-schedule {
+  display: flex;
+  flex-direction: column;
 }
 
-.header__footer-adress {
+.header__paragraph {
+  margin: 0;
+}
+
+.header__footer-address {
+  display: flex;
+  align-self: flex-end;
   text-align: right;
   max-width: 300px;
+  margin: 0;
 }
 
 .recipes {
