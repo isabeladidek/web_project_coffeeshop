@@ -18,6 +18,9 @@
   margin-bottom: 0;
   line-height: 72px;
   letter-spacing: -1px;
+  font-weight: 500;
+  font-size: 58px;
+  font-style: normal;
 }
 
 .header__span-accent {
