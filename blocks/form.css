@@ -1,0 +1,9 @@
+.form {
+  box-sizing: border-box;
+  padding: 0px;
+  max-width: 385px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border-radius: 8px;
+}
